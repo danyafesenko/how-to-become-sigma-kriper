@@ -1,0 +1,10 @@
+body {
+	font-family: sans-serif;
+	text-align: center;
+	background-color: green;
+	color: white;
+}
+
+img {
+	border: 5px solid black;
+}
